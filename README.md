@@ -1,2 +1,2 @@
-# checkin-module
+# Geotag React Native
 Frontend Checkin
